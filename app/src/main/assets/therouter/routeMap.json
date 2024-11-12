@@ -1,0 +1,23 @@
+[
+  {
+    "path": "http://therouter.com/home",
+    "className": "com.star.module_main.view.home.HomeActivity",
+    "action": "",
+    "description": "",
+    "params": {}
+  },
+  {
+    "path": "/therouter.com/home",
+    "className": "com.star.module_main.view.home.HomeActivity",
+    "action": "",
+    "description": "",
+    "params": {}
+  },
+  {
+    "path": "/home/homeActivity",
+    "className": "com.star.module_main.view.home.HomeActivity",
+    "action": "",
+    "description": "",
+    "params": {}
+  }
+]
